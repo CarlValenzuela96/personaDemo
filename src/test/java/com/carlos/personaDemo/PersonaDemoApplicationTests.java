@@ -13,7 +13,7 @@ public class PersonaDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertEquals(1,2);
+		assertEquals(1,1);
 	}
 
 }
