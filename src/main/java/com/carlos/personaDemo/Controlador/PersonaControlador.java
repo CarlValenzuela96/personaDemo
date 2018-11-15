@@ -39,12 +39,4 @@ public class PersonaControlador {
         return "aplicacion/datosPersona";
     }
 
-   // @PostMapping("/persona")
-    //public Persona createPersona(@Valid @RequestBody Persona persona){
-
-      //  return personaDao.save(persona);
-    //}
-
-
-
 }
