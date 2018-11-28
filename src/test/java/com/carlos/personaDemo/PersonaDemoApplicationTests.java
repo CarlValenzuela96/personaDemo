@@ -12,10 +12,10 @@ import static org.junit.Assert.assertEquals;
 @SpringBootTest
 public class PersonaDemoApplicationTests {
 
-	/**@Test
+	@Test
 	public void contextLoads() {
 
-	}*/
+	}
 
 	@Test
 	public void sumaTest(){
